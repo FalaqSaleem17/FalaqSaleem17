@@ -1,4 +1,5 @@
-# 📄 Falaq Saleem – Data Analyst & Data Scientist
+# Falaq Saleem 
+## Data Analyst & Data Scientist
 
 Welcome to my professional portfolio repository!  
 This repository contains my **resume** and showcases my journey in **Data Science and Analytics**, featuring technical skills, projects, and certifications.
